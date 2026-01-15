@@ -1,0 +1,10 @@
+/var/spool/slurmd/job48878219/slurm_script: line 28: / 4: syntax error: operand expected (error token is "/ 4")
+/var/spool/slurmd/job48878225/slurm_script: line 28: / 4: syntax error: operand expected (error token is "/ 4")
+basename: missing operand
+Try 'basename --help' for more information.
+basename: missing operand
+Try 'basename --help' for more information.
+/var/spool/slurmd/job48878226/slurm_script: line 28: $FASTQ: ambiguous redirect
+/var/spool/slurmd/job48878227/slurm_script: line 28: $FASTQ: ambiguous redirect
+/var/spool/slurmd/job48878227/slurm_script: line 28: / 4: syntax error: operand expected (error token is "/ 4")
+/var/spool/slurmd/job48878226/slurm_script: line 28: / 4: syntax error: operand expected (error token is "/ 4")
